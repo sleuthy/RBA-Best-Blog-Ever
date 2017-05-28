@@ -1,0 +1,46 @@
+{
+    "blogposts": [
+        {
+            "id": 0,
+            "title": "Week 1",
+            "author": "Kathy Weisensel",
+            "content": "My first week at Nashville Software School was a complete whirlwind. Even though I had been anticipating the start of NSS's six-month bootcamp for months,
+            I learned quickly that I wouldn't know what I was in for until I arrived. The biggest challenge so far? Retraining my brain.
+            Working consistently for hours at a time to learn and apply new concepts is not something my brain has actively been engaged in for quite some time.
+            As a lifelong lover of learning, I came into this program believing I had an edge; I have always thrived in a classroom environment and love the energy that comes from a group of people working through projects/ideas/problems together.
+            Having been mostly self-employed for the past several years, and before that having worked in positions that did not require much active problem-solving, I realized this week that that part of my brain has been turned off, perhaps for years.
+            Retraining my brain to absorb highly technical concepts, then apply those concepts in a concrete way, is a task that has been harder than I anticipated. Even as I'm writing this, I'm noticing that my writing skills have taken quite a hit this past week...
+            is my right brain slowly deactivating to make room for a more activated left brain? Or am I just exhausted? (I imagine both.)
+            One of my major accomplishments this week? I think I finally understand git and gitHub. Is that possible?",
+            "date": "April 8, 2017"
+        },
+        {
+            "id": 1,
+            "title": "Week 2",
+            "author": "Kathy Weisensel",
+            "content": "Even though I undoubtedly remember creating a Week 2 blog post and updating it on GitHub, I have no evidence this actually happened.
+            Instead of posting a Week 2 blog post, I've decided instead to try to summarize what has happened between April 8 and May 19.
+            What stands out the most? Loads of self-doubt/loathing coupled with many nights spent in the fetal position asking myself 'why?' while my dogs looked on
+            with some combination of worry and empathy. I may be exaggerating a little, but the overall theme of 'why-do-think-you-can-do-this, you-are-too-old/not-smart-enough' was a
+            prevalent thought following me around. Here are some things I learned when I wasn't rocking back and forth, full fetal, in the corner:
+            1) I am not an island, and software development cannot exist in a vacuum. There's a reason I wanted to enroll at NSS and not at some online school: I need to talk to people to be successful.
+            Yes, I'm (sometimes painfully) introverted, but without commiseration with fellow students (and encouragement from instructors), I'd be completely
+            at a loss. 2) For every terrible day, there was a good day. I'm not going to say great day, but good. I've learned to hold onto those good days in my mind and try to remember
+            them when the bad days try to pull me down. It's progress.",
+            "date": "April 8, 2017 - May 19, 2017"
+        },
+        {
+            "id": 2,
+            "title": "Week 8",
+            "author": "Kathy Weisensel",
+            "content": "Week 8?!? Yes, I double checked. It's Week 8. I can't believe we are inching so closely towards the end of our front end course. In a month it will
+            be over, and we'll be thinking about backend. I'm not going to lie, I'm really looking forward to diving into the backend. These past two weeks
+            have taught me that I am more comfortable with, and more interested in dealing with data and a more systems-based approach. Learning how to use Firebase and how to work
+            with APIs felt much more natural to me than other topics. I can understand how these concepts are applied and imagine a flow-chart in my head showing me how everything
+            communicates with everything else. APIs were scary to me at first, but once I started imagining it as simply data sitting on a server somewhere, it's not so scary. It's just data.
+            This week has definitely been my best so far, in terms of feeling confident in my own abilities, and feeling able to process all this new information without
+            much anxiety. I know stuff!",
+            "date": "May 26, 2017"
+        }
+    ]
+}
