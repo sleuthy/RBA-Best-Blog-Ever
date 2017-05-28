@@ -17,7 +17,6 @@
   },
   "homepage": "",
   "devDependencies": {
-    "bootstrap": "^3.3.7",
     "browserify": "^14.3.0",
     "grunt": "^1.0.1",
     "grunt-browserify": "^5.0.0",
@@ -28,11 +27,11 @@
     "jquery": "^3.2.1",
     "jshint": "^2.9.4",
     "jshint-stylish": "^2.2.1",
-    "matchdep": "^1.0.1"
+    "matchdep": "^1.0.1",
+    "materialize-css": "^0.98.2"
   },
   "dependencies": {
-    "firebase": "^4.0.0",
-    "handlebars": "^4.0.8",
+    "handlebars": "^4.0.6",
     "hbsfy": "^2.7.0"
   }
 }
