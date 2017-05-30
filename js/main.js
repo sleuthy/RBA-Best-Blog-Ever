@@ -2,12 +2,13 @@
 
 let myTemplate = require('../templates/blogposts.hbs');
 
+require("hbsfy/runtime");
+
 console.log("main.js loaded");
 
 var dataRequest = new XMLHttpRequest();
 dataRequest.addEventListener("load", dataRequestComplete);
 dataRequest.addEventListener("error", dataRequestFailed);
-// dataRequest.addEventListener("abort", transferCanceled);
 
 function dataRequestComplete(event) {
   var data = JSON.parse(event.target.responseText);
